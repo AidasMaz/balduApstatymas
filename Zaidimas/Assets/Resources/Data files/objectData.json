@@ -1,0 +1,141 @@
+{
+  "categoryName": "all",
+  "dataObjects": [
+    {
+      "objectName": "Clasic couch",
+      "price": 399.99,
+      "colors": [
+        {
+          "colorName": "Alizarin Crimson",
+          "rgbValues": [ 218, 39, 27 ]
+        },
+        {
+          "colorName": "Pomegranate",
+          "rgbValues": [ 240, 45, 50 ]
+        },
+        {
+          "colorName": "Christine",
+          "rgbValues": [ 225, 95, 14 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Wooden wardrobe",
+      "price": 599.99,
+      "colors": [
+        {
+          "colorName": "Cioccolato",
+          "rgbValues": [ 98, 46, 15 ]
+        },
+        {
+          "colorName": "Sambuca",
+          "rgbValues": [ 55, 31, 16 ]
+        },
+        {
+          "colorName": "Antique Bronze",
+          "rgbValues": [ 111, 68, 6 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Shelf",
+      "price": 279.39,
+      "colors": [
+        {
+          "colorName": "Sambuca",
+          "rgbValues": [ 55, 31, 16 ]
+        },
+        {
+          "colorName": "Brown Tumbleweed",
+          "rgbValues": [ 53, 37, 13 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Round table",
+      "price": 429.99,
+      "colors": [
+        {
+          "colorName": "Sambuca",
+          "rgbValues": [ 55, 31, 16 ]
+        },
+        {
+          "colorName": "Brown Tumbleweed",
+          "rgbValues": [ 53, 37, 13 ]
+        },
+        {
+          "colorName": "Cioccolato",
+          "rgbValues": [ 98, 46, 15 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Oval table",
+      "price": 489.59,
+      "colors": [
+        {
+          "colorName": "Brown Tumbleweed",
+          "rgbValues": [ 53, 37, 13 ]
+        },
+        {
+          "colorName": "Cioccolato",
+          "rgbValues": [ 98, 46, 15 ]
+        },
+        {
+          "colorName": "Kumera",
+          "rgbValues": [ 144, 99, 35 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Lamp",
+      "price": 67.69,
+      "colors": [
+        {
+          "colorName": "Bay of Many",
+          "rgbValues": [ 35, 69, 144 ]
+        },
+        {
+          "colorName": "Eucalyptus",
+          "rgbValues": [ 35, 144, 67 ]
+        },
+        {
+          "colorName": "Elm",
+          "rgbValues": [ 35, 144, 140 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Chair",
+      "price": 145.99,
+      "colors": [
+        {
+          "colorName": "Cioccolato",
+          "rgbValues": [ 98, 46, 15 ]
+        },
+        {
+          "colorName": "Sambuca",
+          "rgbValues": [ 55, 31, 16 ]
+        },
+        {
+          "colorName": "Antique Bronze",
+          "rgbValues": [ 111, 68, 6 ]
+        }
+      ]
+    },
+    {
+      "objectName": "Pouf",
+      "price": 32.49,
+      "colors": [
+        {
+          "colorName": "Bay of Many",
+          "rgbValues": [ 35, 69, 144 ]
+        },
+        {
+          "colorName": "Eucalyptus",
+          "rgbValues": [ 35, 144, 67 ]
+        }
+      ]
+    }
+  ]
+}
